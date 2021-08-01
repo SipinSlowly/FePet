@@ -1,0 +1,18 @@
+--Made By YeahDudeThatsNarly#6525 Discord: https://discord.gg/CHHbVqrYk2
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aran1910/Pet-GUI/master/script"))()
+--[[ 
+These are the hats which you can use for the gui 
+(you dont need all of them you use them one at a time)
+https://www.roblox.com/catalog/16157957/Bandit-the-Bumbling-Puppy
+https://www.roblox.com/catalog/4131662188/Felipe
+https://www.roblox.com/catalog/5410382371/Ginger-Kitty-Covering-your-Eyes
+https://www.roblox.com/catalog/155675806/True-Pirate-Parrot
+
+There are the controls for the gui
+ Y - Make it push you (Need to be wearing another hat in extra)
+ E - Make it follow you
+ G - Make it go on top of your head
+ J - Make the pet do a sound
+ K - Make it stay where its at
+]]--
